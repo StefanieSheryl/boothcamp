@@ -1,0 +1,8 @@
+Command used Dictionary
+
+1. mkdir = to make a new directory
+2. mv = to move files and folders
+3. rm -rf = to delete selected file or folder
+4. cd = to travel to another folder
+5. touch = to create a new file
+6. ls = to list all the file in the directory
